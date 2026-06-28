@@ -9,8 +9,12 @@ const HeroText = () => {
         segmentation
       </h3>
       <p className="text-xl font-medium text-gray-600">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quia
-        aperiam blanditiis non vel magni.
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi iusto
+        doloribus quibusdam nulla facere odit porro in illo reprehenderit iure
+        asperiores quo, sed similique rerum eveniet accusamus quos doloremque
+        temporibus cum harum? Accusantium doloribus eos et veniam eius modi
+        delectus excepturi nihil quaerat quod enim velit laborum, quam harum
+        temporibus.
       </p>
     </div>
   );
